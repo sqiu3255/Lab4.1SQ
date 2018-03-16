@@ -1,5 +1,9 @@
 
 public class Deck {
+	
+	//Fields
+	ArrayList<Card> unDealt;
+	ArrayList<Card> Dealt;
 
 	//Deck Constructor
 	public Deck (String[] rank, String[] suit, int[] value)
