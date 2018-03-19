@@ -24,14 +24,13 @@ public class Card {
 	{
 		return name;
 	}
-
-   
-   //check if this card equals
-another in value
-   public boolean equals(Card otherCard)
-   {
-    
-   }
+	
+	//check if this card equals another in value 
+	public boolean equals(Card otherCard)
+	{
+		
+	}
+	   
 
 
 	
